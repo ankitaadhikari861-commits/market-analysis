@@ -1,0 +1,2 @@
+# market analysis
+This project is a simple Market Basket Analysis that studies which products are often bought together in a grocery or retail store. It uses the Apriori algorithm to find frequent itemsets and association rules, then shows which products have strong cross-selling patterns.  Purpose find item combinations that appear together often understand customer buying behavior improve product placement and promotions support bundle offers and cross-sell suggestions
